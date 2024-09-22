@@ -1,0 +1,190 @@
+D:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\appsettings.Development.json
+D:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\appsettings.json
+D:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.staticwebassets.runtime.json
+D:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.exe
+D:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.deps.json
+D:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.runtimeconfig.json
+D:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.dll
+D:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.pdb
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.AssemblyInfoInputs.cache
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.AssemblyInfo.cs
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.csproj.CoreCompileInputs.cache
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.RazorAssemblyInfo.cache
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.RazorAssemblyInfo.cs
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets.build.json
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets.development.json
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.Admin_Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Admin_Project.props
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Admin_Project.props
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Admin_Project.props
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\scopedcss\bundle\Admin_Project.styles.css
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\scopedcss\projectbundle\Admin_Project.bundle.scp.css
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.dll
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\refint\Admin_Project.dll
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.pdb
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.genruntimeconfig.cache
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\ref\Admin_Project.dll
+D:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.csproj.AssemblyReference.cache
+D:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Pr.C6B85F42.Up2Date
+G:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\appsettings.Development.json
+G:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\appsettings.json
+G:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.staticwebassets.runtime.json
+G:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.exe
+G:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.deps.json
+G:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.runtimeconfig.json
+G:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.dll
+G:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.pdb
+G:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\System.Data.SqlClient.dll
+G:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+G:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+G:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+G:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.csproj.AssemblyReference.cache
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.GeneratedMSBuildEditorConfig.editorconfig
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.AssemblyInfoInputs.cache
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.AssemblyInfo.cs
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.csproj.CoreCompileInputs.cache
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.MvcApplicationPartsAssemblyInfo.cache
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.RazorAssemblyInfo.cache
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.RazorAssemblyInfo.cs
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets.build.json
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets.development.json
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.Admin_Project.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Admin_Project.props
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Admin_Project.props
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Admin_Project.props
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets.pack.json
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\scopedcss\bundle\Admin_Project.styles.css
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\scopedcss\projectbundle\Admin_Project.bundle.scp.css
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Pr.C6B85F42.Up2Date
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.dll
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\refint\Admin_Project.dll
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.pdb
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.genruntimeconfig.cache
+G:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\ref\Admin_Project.dll
+E:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\appsettings.Development.json
+E:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\appsettings.json
+E:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.staticwebassets.runtime.json
+E:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.exe
+E:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.deps.json
+E:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.runtimeconfig.json
+E:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.dll
+E:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.pdb
+E:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Sem-5\Asp.Net\Project\Admin_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.csproj.AssemblyReference.cache
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.AssemblyInfoInputs.cache
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.AssemblyInfo.cs
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.csproj.CoreCompileInputs.cache
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.MvcApplicationPartsAssemblyInfo.cache
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.RazorAssemblyInfo.cache
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.RazorAssemblyInfo.cs
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets.build.json
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets.development.json
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.Admin_Project.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Admin_Project.props
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Admin_Project.props
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Admin_Project.props
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\scopedcss\bundle\Admin_Project.styles.css
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\scopedcss\projectbundle\Admin_Project.bundle.scp.css
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Pr.C6B85F42.Up2Date
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.dll
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\refint\Admin_Project.dll
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.pdb
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.genruntimeconfig.cache
+E:\Sem-5\Asp.Net\Project\Admin_Project\obj\Debug\net8.0\ref\Admin_Project.dll
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\bin\Debug\net8.0\appsettings.Development.json
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\bin\Debug\net8.0\appsettings.json
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.staticwebassets.runtime.json
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.exe
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.deps.json
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.runtimeconfig.json
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.dll
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.pdb
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.csproj.AssemblyReference.cache
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.AssemblyInfoInputs.cache
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.AssemblyInfo.cs
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.csproj.CoreCompileInputs.cache
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.MvcApplicationPartsAssemblyInfo.cache
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.RazorAssemblyInfo.cache
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.RazorAssemblyInfo.cs
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\staticwebassets.build.json
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\staticwebassets.development.json
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.Admin_Project.Microsoft.AspNetCore.StaticWebAssets.props
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Admin_Project.props
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Admin_Project.props
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Admin_Project.props
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\staticwebassets.pack.json
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\scopedcss\bundle\Admin_Project.styles.css
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\scopedcss\projectbundle\Admin_Project.bundle.scp.css
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Pr.C6B85F42.Up2Date
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.dll
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\refint\Admin_Project.dll
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.pdb
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.genruntimeconfig.cache
+E:\KRISHA\SEM-5(UNI)\.net LAB\Project 2\Project\Admin_Project\obj\Debug\net8.0\ref\Admin_Project.dll
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\bin\Debug\net8.0\appsettings.Development.json
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\bin\Debug\net8.0\appsettings.json
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.staticwebassets.runtime.json
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.exe
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.deps.json
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.runtimeconfig.json
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.dll
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\bin\Debug\net8.0\Admin_Project.pdb
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.csproj.AssemblyReference.cache
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.AssemblyInfoInputs.cache
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.AssemblyInfo.cs
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.csproj.CoreCompileInputs.cache
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.RazorAssemblyInfo.cache
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.RazorAssemblyInfo.cs
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\staticwebassets.build.json
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\staticwebassets.development.json
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.Admin_Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Admin_Project.props
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Admin_Project.props
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Admin_Project.props
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\scopedcss\bundle\Admin_Project.styles.css
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\scopedcss\projectbundle\Admin_Project.bundle.scp.css
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Pr.C6B85F42.Up2Date
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.dll
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\refint\Admin_Project.dll
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.pdb
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\Admin_Project.genruntimeconfig.cache
+D:\Sem-5\Asp.Net\project 2\Project\Admin_Project\obj\Debug\net8.0\ref\Admin_Project.dll

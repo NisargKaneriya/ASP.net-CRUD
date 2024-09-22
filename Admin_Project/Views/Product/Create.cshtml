@@ -1,0 +1,73 @@
+﻿@model ProductModel
+
+<div class="d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+    <div class="card w-50">
+        <div class="card-body">
+            <h5 class="card-title text-center">@(Model.ProductID == null ? "Add Product" : "Edit Product")</h5>
+
+            <!-- General Form Elements -->
+            <form asp-action="ProductSave" method="post" asp-asp-controller="Product">
+                <div class="row mb-3">
+                    <label for="inputProductID" class="col-sm-4 col-form-label">Product ID</label>
+                    <div class="col-sm-8">
+                        <input asp-for="ProductID" type="hidden" class="form-control" id="inputProductID">
+                        
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label for="inputProductName" class="col-sm-4 col-form-label">Product Name</label>
+                    <div class="col-sm-8">
+                        <input asp-for="ProductName" type="text" class="form-control" id="inputProductName">
+                        <span asp-validation-for="ProductName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label for="inputProductPrice" class="col-sm-4 col-form-label">Product Price</label>
+                    <div class="col-sm-8">
+                        <input asp-for="ProductPrice" type="number" class="form-control" id="inputProductPrice">
+                        <span asp-validation-for="ProductPrice" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label for="inputProductCode" class="col-sm-4 col-form-label">Product Code</label>
+                    <div class="col-sm-8">
+                        <input asp-for="ProductCode" type="text" class="form-control" id="inputProductCode">
+                        <span asp-validation-for="ProductCode" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label for="inputDescription" class="col-sm-4 col-form-label">Description</label>
+                    <div class="col-sm-8">
+                        <textarea asp-for="Description" class="form-control" id="inputDescription"></textarea>
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label for="inputUserID" class="col-sm-4 col-form-label">User Name</label>
+                    <select asp-for="UserID"
+                        asp-items="@(new SelectList(ViewBag.UserDropDown , "UserID" , "UserName" ))"
+                        class="form-select">
+                        <option value="">Select User</option>
+                    </select>
+                    <span asp-validation-for="UserID" class="text-danger"></span>
+                </div>
+
+                <div class=" row mb-3">
+                    <div class="col-sm-12 text-center">
+                        <button type="submit" class="btn btn-primary">Save</button>
+                        <a class="btn btn-danger btn-sm"
+                           asp-controller="Product" asp-action="ProductList" onclick="return Cancel()">
+
+                            Cancel
+                        </a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<script>
+    function Cancel() {
+        return confirm("Move Back");
+    }
+</script>

@@ -1,0 +1,71 @@
+﻿@* @model List<CustomerModel> *@
+@model DataTable;
+@using System.Data
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Customers Table</h5>
+
+        <div class="mb-3">
+            <a href="@Url.Action("Create", "Customer")" class="btn btn-success">
+                <i class='bx bx-plus-circle bx-sm'></i> </a>
+        </div>
+        <h6 class="text-danger">@TempData["Error Message"]</h6>
+
+        <!-- Table with stripped rows -->
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">CustomerID</th>
+                    <th scope="col">CustomerName</th>
+                    <th scope="col">HomeAddress</th>
+                    <th scope="col">Email</th>
+                    <th scope="col">MobileNo</th>
+                    <th scope="col">GST_NO</th>
+                    <th scope="col">CityName</th>
+                    <th scope="col">PinCode</th>
+                    <th scope="col">NetAmount</th>
+                    <th scope="col">UserID</th>
+                    <th scope="col">UserName</th>
+                    <th scope="col">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (DataRow row in Model.Rows)
+                {
+                    <tr>
+                        <th scope="row">@row["CustomerID"]</th>
+                        <td>@row["CustomerName"]</td>
+                        <td>@row["HomeAddress"]</td>
+                        <td>@row["Email"]</td>
+                        <td>@row["MobileNo"]</td>
+                        <td>@row["GST_NO"]</td>
+                        <td>@row["CityName"]</td>
+                        <td>@row["PinCode"]</td>
+                        <td>@row["NetAmount"]</td>
+                        <td>@row["UserID"]</td>
+                        <td>@row["UserName"]</td>
+                        <td>
+
+                            <a asp-action="Create" asp-route-CustomerID="@row["CustomerID"]" class="btn btn-primary btn-sm">
+                                <i class='bx bx-pencil bx-sm'></i>
+                            </a>
+                            <a class="btn btn-danger btn-sm"
+                               asp-controller="Customer" asp-action="CustomerDelete" asp-route-CustomerID="@row["CustomerID"]" onclick="return deleteBills()">
+                                <i class='bx bx-trash bx-sm'></i>
+                           </a>
+                           
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+<script>
+    function deleteBills() {
+        return confirm("Are you Sure You Want Delete The Record?");
+    }
+</script>

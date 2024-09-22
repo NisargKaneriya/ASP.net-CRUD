@@ -1,0 +1,89 @@
+﻿@model BillsModel
+
+<div class="d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+    <div class="card w-50">
+        <div class="card-body">
+            <h5 class="card-title text-center">@(Model.BillID == null ? "Add Bill" : "Edit Bill" )</h5>
+
+            <!-- Bill Form Elements -->
+            <form asp-action="BillsSave" method="post" asp-asp-controller="Bills">
+                <div class="row mb-3">
+                    <label for="inputBillID" class="col-sm-4 col-form-label">Bill ID</label>
+                    <div class="col-sm-8">
+                        <input asp-for="BillID" type="hidden" class="form-control" id="inputBillID">
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label for="inputBillNumber" class="col-sm-4 col-form-label">Bill Number</label>
+                    <div class="col-sm-8">
+                        <input asp-for="BillNumber" type="text" class="form-control" id="inputBillNumber">
+                        <span asp-validation-for="BillNumber" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label for="inputBillDate" class="col-sm-4 col-form-label">Bill Date</label>
+                    <div class="col-sm-8">
+                        <input asp-for="BillDate" type="date" class="form-control" id="inputBillDate">
+                        <span asp-validation-for="BillDate" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label for="inputOrderID" class="col-sm-4 col-form-label">Order ID</label>
+                    <select asp-for="OrderID"
+                            asp-items="@(new SelectList(ViewBag.OrderDropDown , "OrderID" , "OrderID" ))"
+                            class="form-select">
+                        <option value="">Select Order</option>
+                    </select>
+                    <span asp-validation-for="OrderID" class="text-danger"></span>
+                </div>
+                <div class="row mb-3">
+                    <label for="inputTotalAmount" class="col-sm-4 col-form-label">Total Amount</label>
+                    <div class="col-sm-8">
+                        <input asp-for="TotalAmount" type="number" step="0.01" class="form-control" id="inputTotalAmount">
+                        <span asp-validation-for="TotalAmount" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label for="inputDiscount" class="col-sm-4 col-form-label">Discount</label>
+                    <div class="col-sm-8">
+                        <input asp-for="Discount" type="number" step="0.01" class="form-control" id="inputDiscount">
+                        <span asp-validation-for="Discount" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label for="inputNetAmount" class="col-sm-4 col-form-label">Net Amount</label>
+                    <div class="col-sm-8">
+                        <input asp-for="NetAmount" type="number" step="0.01" class="form-control" id="inputNetAmount">
+                        <span asp-validation-for="NetAmount" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label for="inputUserID" class="col-sm-4 col-form-label">User Name</label>
+                    <select asp-for="UserID"
+                            asp-items="@(new SelectList(ViewBag.UserDropDown , "UserID" , "UserName" ))"
+                            class="form-select">
+                        <option value="">Select User</option>
+                    </select>
+                    <span asp-validation-for="UserID" class="text-danger"></span>
+                </div>
+
+
+                <div class="row mb-3">
+                    <div class="col-sm-12 text-center">
+                        <button type="submit" class="btn btn-primary" >Save</button>
+                        <a class="btn btn-danger btn-sm"
+                           asp-controller="Bills" asp-action="BillsList" onclick="return Cancel()">
+
+                           Cancel
+                        </a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<script>
+    function Cancel(){
+        return confirm("Move Back");
+    }
+</script>

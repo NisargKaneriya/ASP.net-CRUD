@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|d:\\sem-5\\asp.net\\project 2\\project\\admin_project\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|solutionrelative:controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|d:\\sem-5\\asp.net\\project 2\\project\\admin_project\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|solutionrelative:models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|d:\\sem-5\\asp.net\\project 2\\project\\admin_project\\views\\orderdetail\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|solutionrelative:views\\orderdetail\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|d:\\sem-5\\asp.net\\project 2\\project\\admin_project\\views\\bills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|solutionrelative:views\\bills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|d:\\sem-5\\asp.net\\project 2\\project\\admin_project\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|solutionrelative:views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|d:\\sem-5\\asp.net\\project 2\\project\\admin_project\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|solutionrelative:views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|d:\\sem-5\\asp.net\\project 2\\project\\admin_project\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|d:\\sem-5\\asp.net\\project 2\\project\\admin_project\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|solutionrelative:views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|d:\\sem-5\\asp.net\\project 2\\project\\admin_project\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|d:\\sem-5\\asp.net\\project 2\\project\\admin_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|d:\\sem-5\\asp.net\\project 2\\project\\admin_project\\views\\orderdetail\\orderdetaillist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2E35D99-2ED6-4A68-914F-3CF0B0B8A2A0}|Admin_Project.csproj|solutionrelative:views\\orderdetail\\orderdetaillist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Create.cshtml",
+              "ToolTip": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "Views\\User\\Create.cshtml",
+              "ViewState": "AQIAADAAAACAMzMzMzMbwD4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T08:41:31.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAC4AAAAAMjMzMzMLwDoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T08:40:55.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Create.cshtml",
+              "ToolTip": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "Views\\Order\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T08:39:43.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Create.cshtml",
+              "ToolTip": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Create.cshtml",
+              "ViewState": "AQIAAEcAAAAAMzMzMzMbwFUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T08:38:59.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Views\\Bills\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bills\\Create.cshtml",
+              "ToolTip": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Views\\Bills\\Create.cshtml",
+              "RelativeToolTip": "Views\\Bills\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T08:32:56.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAE4AAAAAzMzMzMwMwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:58:32.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:58:31.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderdetailList.cshtml",
+              "DocumentMoniker": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Views\\Orderdetail\\OrderdetailList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orderdetail\\OrderdetailList.cshtml",
+              "ToolTip": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Views\\Orderdetail\\OrderdetailList.cshtml",
+              "RelativeToolTip": "Views\\Orderdetail\\OrderdetailList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T17:54:46.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderdetailController.cs",
+              "DocumentMoniker": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Controllers\\OrderdetailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderdetailController.cs",
+              "ToolTip": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Controllers\\OrderdetailController.cs",
+              "RelativeToolTip": "Controllers\\OrderdetailController.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAAK4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:49:29.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderdetailModel.cs",
+              "DocumentMoniker": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Models\\OrderdetailModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderdetailModel.cs",
+              "ToolTip": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Models\\OrderdetailModel.cs",
+              "RelativeToolTip": "Models\\OrderdetailModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:49:24.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Views\\Orderdetail\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orderdetail\\Create.cshtml",
+              "ToolTip": "D:\\Sem-5\\Asp.Net\\project 2\\Project\\Admin_Project\\Views\\Orderdetail\\Create.cshtml",
+              "RelativeToolTip": "Views\\Orderdetail\\Create.cshtml",
+              "ViewState": "AQIAADYAAAAgZmZmZmYkwEQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T17:48:28.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

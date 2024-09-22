@@ -1,0 +1,59 @@
+﻿@* @model List<UserModel> *@
+@model DataTable;
+@using System.Data;
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">User Table</h5>
+
+        <div class="mb-3">
+            <a href="@Url.Action("Create", "User")" class="btn btn-success">
+                <i class='bx bx-plus-circle bx-sm'></i>
+            </a>
+        </div>
+        <h6 class="text-danger">@TempData["Error Message"]</h6>
+
+        <!-- Table with stripped rows -->
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">UserID</th>
+                    <th scope="col">UserName</th>
+                    <th scope="col">Email</th>
+                    <th scope="col">Password</th>
+                    <th scope="col">MobileNo</th>
+                    <th scope="col">Address</th>
+                    <th scope="col">IsActive</th>
+                    <th scope="col">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (DataRow row in Model.Rows)
+                {
+                  
+                    <tr>
+                        <th scope="row">@row["UserID"]</th>
+                        <td>@row["UserName"]</td>
+                        <td>@row["Email"]</td>
+                        <td>@row["Password"]</td>
+                        <td>@row["MobileNo"]</td>
+                        <td>@row["Address"]</td>
+                        <td>@row["IsActive"]</td>
+                        <td>
+                           
+                           
+                            <a asp-action="Create" asp-route-UserID="@row["UserID"]" class="btn btn-primary btn-sm">
+                                <i class='bx bx-pencil bx-sm'></i>
+                            </a>
+                            <a class="btn btn-danger btn-sm"
+                               asp-controller="User" asp-action="UserDelete" asp-route-UserID="@row["UserID"]">
+
+                                <i class='bx bx-trash bx-sm'></i>
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
